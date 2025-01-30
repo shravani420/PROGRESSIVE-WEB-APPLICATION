@@ -32,3 +32,6 @@ Body Content:
 <h1>Text to Speech Converter</h1>: A heading that labels the page.
 <textarea>: Provides an input field where users can type the text they want to convert to speech.
 <button>: A button (id="convert-btn") to trigger the speech conversion.
+
+OUTPUT:-
+![Image](https://github.com/user-attachments/assets/a01e5ba9-51a0-4150-8a64-799ec4b1063e)
